@@ -1,0 +1,1998 @@
+
+    /* seperate sub pages media quries for better understanding */
+
+    @media only screen and (max-width: 2560px) {
+        .start-banner h3 , .approach-us-banner h3 ,.register-form-banner h3, .product-services-banner h3, .create-account-banner h3 {
+            font-size: 60px;
+            margin-left: 18px;
+        }
+        .start-banner ,.approach-us-banner ,.register-form-banner, .product-services-banner, .create-account-banner {
+            height: 212px;
+        }
+        .main-heading h1 {
+            font-family: "MYRIADPRO-REGULAR";
+            font-size: 65px;
+        }
+        .service-rate h3 {
+            padding: 25px 0px;
+            font-size: 32px;
+        }
+        .service-rate {
+            height: 280px;
+        }
+        .empty-div, .service-discription {
+            height: 68px;
+            font-family: "OpenSans-Bold";
+            font-size: 26px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .service-rate p {
+            font-size: 20px;
+            font-family: "OpenSans-SemiBold";
+        }
+        .service-list ul li {
+            line-height: 47px;
+        }
+        .service-list ul {
+            color: #86878b;
+            font-family: "OpenSans-Regular";
+            margin: 18px 0px 30px 0px;
+            font-size: 26px;
+        }
+        .service-options button {
+            font-size: 38px;
+            padding: 20px 0px;
+        }
+        .top-rate {
+            font-size: 85px;
+        }
+        /* approach us media queries */
+        .approach-us .main-content h3, .register-sec .main-content h3 {   
+            margin-bottom: 20px;
+            font-size: 65px;
+        }
+        .approach-us .main-content p, .register-sec .main-content p {
+            font-size: 36px;
+        }
+        .approach-us {
+            padding: 140px 0px 130px 0px;
+        }
+        .approach-content p {
+            font-size: 28px;
+        }
+        .approach-content button, .btn-registration {
+            padding: 8px 80px;
+            font-size: 32px;
+        }
+        .custom-form textarea {
+            font-size: 30px;
+        }
+        .approach-form {
+            padding: 70px 50px;
+        }
+        /* register page media queries */
+        .registration-select {
+            font-size: 30px;
+        }
+        .registration-bottom p {
+            font-size: 25px;
+        }
+        .registration-contact p {
+            font-size: 30px;
+        }
+        .register-checkbox{
+            width: 30px;
+            height: 30px;
+        }
+        .registeration-form {
+            background: #fff;
+            box-shadow: 0px 0px 20px 0px #afafaf;
+            padding: 30px 50px 70px 50px;
+        }
+        .register-sec {
+            background: #f5f5f5;
+            padding: 120px 0px 220px 0px;
+        }
+        .registeration-form {
+            margin-top: 80px;
+        }
+        /* freelancing page media queries */
+        .browser-content {
+            font-size: 30px;
+        }
+        .btn-browser {
+            font-size: 30px;
+        }
+        .freelaning-select {
+            padding: 47px 7px 11px 7px;
+        }
+        .profile-pic-m{
+            margin: 50px 0px 80px 0px;
+        }
+        /* product and service page media queries */
+        #mySearch, .product-select  {
+            font-size: 32px;
+        }
+        .product-and-services .ps-row-1 {
+            margin-bottom: 90px!important;
+        }
+        .grey-box {
+            height: 120px;
+        }
+        .services-img {
+            margin-top: -70px;
+            width: 140px;
+        }
+        .product-content h4 {
+            font-size: 31px;
+            margin: 18px 0px 28px 0px;
+        }
+        .product-content p {
+            line-height: 30px;
+            font-size: 26px;
+        }
+        .product-content {
+            padding: 20px 60px 30px 60px;
+        }
+        .product-service-box button {
+            font-size: 31px;
+            padding: 18px 0px;
+        }
+        .ps-col {
+            padding: 0px 40px!important;
+            /* margin-bottom: 20px; */
+        }
+        .product-service-box {
+            margin-bottom: 85px;
+        }
+        .search-icon .fa {
+            font-size: 30px;
+        }
+        /* sales professional page media queries */
+
+        .image .services-img {
+            margin-top: -90px;
+            width: 200px;
+            margin-left: 20px;
+        }
+        .image-content .name {
+            font-size: 30px;
+            margin-top: -22px;
+        }
+        .work {
+            font-family: "OpenSans-Regular";
+            font-size: 26px;
+            margin-top: -22px;
+        }
+        .professional-content{
+            padding: 0px 60px 30px 60px!important;
+        }
+        .rating > label{
+            font-size: 22px;
+            line-height: 5px;
+        }
+        /* create page media queries */
+         .tabcontent h5 {
+            font-size: 31px;
+        }
+        .tab button {
+            font-size: 31px;
+            padding: 20px 24px;
+        }
+        .create-browser {
+            margin: 80px 0px 90px 0px;
+        }
+        .create-section textarea{
+            padding-top: 40px;
+        }
+        .detail-form .create-bottom{
+            font-size: 30px;
+            margin-bottom: 50px!important;
+        }
+        .btn-save ,.btn-explore, .create-account-content button{
+            padding: 16px 120px;
+            font-size: 30px;
+        }
+        .btn-explore{
+            margin-bottom: 22px;
+        }
+        .explore-div a  {
+            font-size: 25px;
+        }
+        .or {
+            font-size: 30px;
+        }
+        .create-account-form {
+            padding: 75px 80px;
+        }
+        .create-account-content{
+            margin-top: 40px;
+        }
+        .create-detail{
+            margin-bottom: 30px;
+        }
+        /* .model-style{
+            display: flex!important;
+            align-items: center;
+        } */
+        .modal .modal-dialog{
+            max-width: 1200px !important;
+        }
+        .modal-body p {
+            font-size: 37px;
+            margin: 50px 0px 80px 0px;
+        }
+        .modal-body img{
+            width: 200px;
+            margin-bottom: 40px;
+        }
+        .modal-header > button > span {
+            font-size: 70px!important;
+        }
+        .pop-up-setting{
+            height: 100vh;
+        }
+        /* edit page */
+        .new-btn h5 {
+            font-size: 38px;
+        }
+        .new-btn button {
+            padding: 16px 10px;
+            width: 230px;
+            font-size: 30px;
+        }
+        /* view-page */
+        .view-ads .right-secion p {
+            margin-bottom: 30px;
+        }
+        .view-ads p {
+            font-size: 26px;
+        }
+        .view-ads h2 {
+            font-size: 39px;
+            margin: 61px 0px 27px 0px;
+        }
+        .view-btn .edit {
+            padding: 16px 10px;
+            width: 230px;
+            font-size: 30px;
+        }
+        .view-btn .delete {
+            font-size: 30px;
+        }
+        /* manage-ads */
+        .ad-row .main-text {
+            font-size: 30px;
+        }
+        .text img {
+            width: 230px;
+            max-width: 100px;
+        }
+        .link-img a img{
+            width: 90px;
+        }
+        .text-center h2{
+            font-size: 60px;
+        }
+        .text {
+            font-size: 30px;
+        }
+        
+        /* profile */
+        .view-ads .profile-content .name {
+            font-size: 77px;
+            margin-top: 0px;
+        }
+        .view-ads .profile-content .work {
+            font-size: 50px;
+            margin-top: 10px;
+        }
+        .profile-star .profile-rating > label {
+            font-size: 50px;
+            margin-top: 50px;
+            margin-bottom: 20px;
+        }
+        .profile-content{
+            margin-top: 0px!important;
+            line-height: inherit;
+        }
+         /* ========profile in create account page======= */
+         .profile-tabs .create-account-profile .image-content{
+            margin-left: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content .name {
+            font-size: 65px;
+        }
+        .profile-tabs .create-account-profile .profile-content .work {
+            font-size: 45px;
+            margin-top: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-star .profile-rating > label {
+            font-size: 46px;
+            margin-top: 35px;
+            margin-bottom: 40px;
+        }
+        .profile-tabs .create-account-profile .profile-content h2 {
+            margin: 17px 0px 4px 0px;
+            font-size: 45px;
+        }
+        client-sale-professional {
+            width: 180px;
+            height: 180px;
+        }
+        .client-name {
+            font-size: 32px;
+        }
+        .client-amount {
+            font-size: 30px;
+        }
+        .image-1 {
+            display: flex;
+            padding: 0px 10px 0px 60px;
+            margin-top: -80px;
+            margin-bottom: 30px;
+        }
+     }
+
+     @media only screen and (max-width: 2249px) {
+        .start-banner ,.approach-us-banner ,.register-form-banner, .product-services-banner, .create-account-banner{
+            height: 182px;
+        }
+        .start-banner h3 ,.approach-us-banner h3 ,.register-form-banner h3, .product-services-banner h3, .create-account-banner h3 {
+            font-size: 50px;
+        }
+        .main-heading h1 {
+            font-size: 55px;
+        }
+        .service-rate h3 {
+            padding: 20px 0px;
+            font-size: 26px;
+        }
+        .top-rate {
+            font-size: 80px;
+        }
+        .service-rate p {
+            font-size: 18px;
+        }
+        .service-rate {
+            height: 260px;
+        }
+        .empty-div, .service-discription {
+            height: 45px;
+            font-size: 22px;
+        }
+        .service-list ul {
+            font-size: 20px;
+        }
+        .service-list ul li {
+            line-height: 35px;
+        }
+           /* approach responsive */
+           .approach-us .main-content h3, .register-sec .main-content h3 {
+            font-size: 50px;
+            margin-bottom: 5px;
+        }
+        .approach-us .main-content p, .register-sec .main-content p {
+            font-size: 28px;
+        }
+        .custom-form textarea {
+            font-size: 20px;
+        }
+        .approach-content p {
+            font-size: 22px;
+        }
+        .approach-content button{
+            padding: 8px 60px;
+            font-size: 25px;
+        }
+        .approach-form {
+            margin: 0px 0px 40px 0px;
+        }
+         /* register page media queries */
+         .registration-select {
+            font-size: 20px;
+        }
+        .registration-bottom p {
+            font-size: 18px;
+        }
+        .registration-contact p {
+            font-size: 20px;
+        }
+        .register-checkbox {
+            width: 20px;
+            height: 20px;
+        }
+        .btn-registration {
+            padding: 8px 60px;
+            font-size: 20px;
+        }
+        /* freelancing page media queries */
+        .browser-content {
+            font-size: 20px;
+        }
+        .btn-browser {
+            font-size: 20px;
+        }
+        .freelaning-select {
+            padding: 43px 7px 7px 7px;
+        }
+        .profile-pic-m{
+            margin: 40px 0px 60px 0px;
+        }
+           /* product and service page media queries */
+        #mySearch, .product-select {
+            font-size: 22px;
+        }
+        .grey-box {
+            height: 100px;
+        }
+        .services-img {
+            margin-top: -60px;
+            width: 120px;
+        }
+        .product-content h4 {
+            font-size: 26px;
+        }
+        .product-content p {
+            line-height: 25px;
+            font-size: 20px;
+        }
+        .product-content {
+            padding: 20px 30px 30px 30px;
+        }
+        .product-service-box button {
+            font-size: 26px;
+            padding: 16px 0px;
+        }
+        /* sales professional page media queries */
+        .image .services-img {
+            margin-top: -75px;
+            width: 160px;
+        }
+        .image-content .name {
+            font-size: 22px;
+            margin-top: -22px;
+        }
+        .work{
+            font-size:20px;
+        }
+        .professional-content h4{
+            margin: 8px 0px 18px 0px!important;
+        }
+        .professional-content {
+            padding: 0px 30px 30px 60px!important;
+        }
+        .rating > label {
+            font-size: 16px;
+            line-height: 10px;
+        }
+          /* create page media queries */
+          .tab button {
+            font-size: 23px;
+            padding: 14px 24px;
+        }
+        .tabcontent h5 {
+            font-size: 23px;
+        }
+        .create-browser {
+            margin: 70px 0px 80px 0px;
+        }
+        .btn-save, .btn-explore, .create-account-content button {
+            padding: 12px 100px;
+            font-size: 20px;
+        }
+        .detail-form .create-bottom {
+            font-size: 20px;
+        }
+        .explore-div a {
+            font-size: 20px;
+        }
+        .or{
+            font-size: 25px;
+        }
+        .modal .modal-dialog {
+            max-width: 1010px !important;
+        }
+        .modal-body p {
+            font-size: 28px;
+            margin: 50px 50px 50px 50px;
+        }
+        .modal-body img {
+            width: 150px;
+        }
+        .modal-header > button > span {
+            font-size: 50px!important;
+        }
+        .search-icon .fa {
+            font-size: 22px;
+        }
+           /* edit page */
+           .new-btn h5 {
+            font-size: 28px;
+        }
+        .new-btn button {
+            padding: 8px 10px;
+            width: 230px;
+            font-size: 25px;
+        }
+           /* view-page */
+           .view-ads h2 {
+            font-size: 36px;
+            margin: 48px 0px 22px 0px;
+        }
+        .view-ads p {
+            font-size: 21px;
+        }
+        .view-btn .edit {
+            padding: 8px 10px;
+            width: 230px;
+            font-size: 25px;
+        }
+        .view-btn .delete {
+            font-size: 25px;
+        }
+         /* manage-ads */
+         .text img {
+            width: 190px;
+            max-width: 100px;
+        }
+        .ad-row .main-text {
+            font-size: 23px;
+        }
+        .link-img a img {
+            width: 70px;
+        }
+        .text {
+            font-size: 22px;
+        }
+          /* profile */
+          .view-ads .profile-content .name {
+            font-size: 60px;
+        }
+        .view-ads .profile-content .work {
+            font-size: 40px;
+            margin-top: 10px;
+        }
+        .profile-star .profile-rating > label {
+            font-size: 40px;
+            margin-top: 50px;
+            margin-bottom: 20px;
+        }
+        /* ========profile in create account page======= */
+        .profile-tabs .create-account-profile .image-content{
+            margin-left: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content .name {
+            font-size: 55px;
+        }
+        .profile-tabs .create-account-profile .profile-content .work {
+            font-size: 33px;
+            margin-top: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-star .profile-rating > label {
+            font-size: 25px;
+            margin-top: 10px;
+            margin-bottom: 5px;
+        }
+        .profile-tabs .create-account-profile .profile-content h2 {
+            margin: 17px 0px 4px 0px;
+            font-size: 30px;
+        }   
+        .client-sale-professional{
+            background: #333232;
+            width: 160px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 160px;
+            border: 1px solid #a5a5a5;
+          }
+      
+          .client-sale-professional img{
+              width: 100%;
+          }
+      
+         .client-name{
+            font-size: 22px;
+            font-family: "OpenSans-Bold";
+            color: #fff;
+         }
+     
+         .client-amount{
+            font-size: 20px;
+            font-family: "OpenSans-Regular";
+         }
+         .client-amount , .client-name{
+             margin-left: 20px;
+        
+         }
+     
+         .image-1{
+            display: flex;
+            padding: 0px 10px 0px 60px;
+            margin-top: -60px;
+            margin-bottom: 30px;
+         }
+         .client-professional-content{
+             padding-top: 4%;
+         }
+        }
+    
+     @media only screen and (max-width: 1919px) {
+        .start-banner{
+            height: 132px;
+        }
+        .approach-us-banner, .register-form-banner , .product-services-banner, .create-account-banner{
+            height: 137px;
+        }
+        .start-banner h3 ,.approach-us-banner h3 ,.register-form-banner h3 ,.product-services-banner h3, .create-account-banner h3 {
+            font-size: 40px;
+        }
+        .main-heading h1 {
+            font-size: 45px;
+        }
+        .service-col {
+            padding: 0px 15px!important;
+        }
+        .service-rate h3 {
+            padding: 12px 0px;
+            font-size: 18px;
+        }
+        .top-rate {
+            font-size: 60px;
+        }
+        .service-rate p {
+            font-size: 14px;
+        }
+        .service-rate {
+            height: 200px;
+        }
+        .empty-div, .service-discription {
+            height: 35px;
+            font-size: 16px;
+        }
+        .service-list ul {
+            font-size: 15px;
+        }
+        .service-list ul li {
+            line-height: 28px;
+        }
+        .service-list ul {
+            margin: 12px 0px 15px 0px;
+            font-size: 16px;
+        }
+        .service-options button {
+            font-size: 24px;
+            padding: 7px 0px;
+        }
+        /* approach responsive */
+        .approach-us .main-content h3 , .register-sec .main-content h3{
+            font-size: 36px;
+            margin-bottom: 5px;
+        }
+        .approach-us .main-content p, .register-sec .main-content p {
+            font-size: 21px;
+        }
+        .custom-form textarea {
+            font-size: 16px;
+        }
+        .approach-content p {
+            font-size: 16px;
+        }
+        .approach-content button, .btn-registration {
+            padding: 8px 50px;
+            font-size: 18px;
+        }
+        .approach-form {
+            margin: 0px 0px 40px 0px;
+        }
+        .approach-us {
+            padding: 80px 0px 80px 0px;
+        }
+        .approach-form {
+            padding: 40px 40px;
+        }
+           /* register page media queries */
+           .registration-select {
+            font-size: 20px;
+        }
+        .registration-bottom p {
+            font-size: 18px;
+        }
+        .registration-contact p {
+            font-size: 20px;
+        }
+        .register-checkbox {
+            width: 20px;
+            height: 20px;
+        }
+        .btn-registration {
+            padding: 8px 60px;
+            font-size: 20px;
+        }
+           /* register page media queries */
+           .registration-select {
+            font-size: 16px;
+        }
+        .registration-bottom p {
+            font-size: 16px;
+        }
+        .registration-contact p {
+            font-size: 16px;
+        }
+        .register-checkbox {
+            width: 16px;
+            height: 16px;
+        }
+        .register-sec {
+            background: #f5f5f5;
+            padding: 70px 0px 120px 0px;
+        }
+        .registeration-form {
+            margin-top: 30px;
+        }
+        .registeration-form {
+            padding: 30px 30px 60px 30px;
+        }
+        /* freelancing page media queries */
+        .browser-content {
+            font-size: 16px;
+        }
+        .freelaning-select {
+            padding: 28px 7px 7px 7px;
+        }
+        .btn-browser {
+            font-size: 16px;
+        }
+        .profile-pic-m {
+            margin: 0px 0px 10px 0px;
+        }
+           /* product and service page media queries */
+           #mySearch, .product-select {
+            font-size: 16px;
+        }
+        .ps-col {
+            padding: 0px 20px!important;
+        }
+        .product-service-box {
+            margin-bottom: 45px;
+        }
+        .grey-box {
+            height: 80px;
+        }
+        .services-img {
+            margin-top: -46px;
+            width: 90px;
+        }
+        .product-content h4 {
+            font-size: 20px;
+            margin: 5px 0px 20px 0px;
+        }
+        .product-content p {
+            line-height: 22px;
+            font-size: 16px;
+        }
+        .product-service-box button {
+            font-size: 20px;
+            padding: 10px 0px;
+        }
+        .product-and-services {
+            padding: 130px 0px 60px 0px;
+        }
+        .product-and-services .ps-row-1 {
+            margin-bottom: 60px!important;
+        }
+           /* sales professional page media queries */
+           .image .services-img {
+            margin-top: -55px;
+            width: 90px;
+        }
+        .image-content .name {
+            font-size: 17px;
+            margin-top: -7px;
+        }
+        .work {
+            font-size: 16px;
+            margin-top: -7px;
+        }
+        .professional-content {
+            padding: 0px 30px 30px 30px!important;
+        }
+        .image {
+            padding: 10px 10px;
+        }
+        .rating > label {
+            font-size: 11px;
+            line-height: 20px;
+        }
+         /* create page media queries */
+         .tab button {
+            font-size: 18px;
+            padding: 10px 14px;
+        }
+        .tabcontent h5 {
+            font-size: 20px;
+        }
+        .create-browser {
+            margin: 50px 0px 60px 0px;
+        }
+        .create-section textarea {
+            padding-top: 18px;
+        }
+        .detail-form .create-bottom {
+            font-size: 16px;
+        }
+        .btn-save, .btn-explore, .create-account-content button {
+            padding: 12px 60px;
+            font-size: 16px;
+        }
+        .explore-div a {
+            font-size: 14px;
+        }
+        .btn-explore {
+            margin-bottom: 7px;
+        }
+        .create-account-form {
+            padding: 45px 60px;
+        }
+        .modal .modal-dialog {
+            max-width: 750px !important;
+        }
+        .modal-body p {
+            font-size: 24px;
+            margin: 20px 50px 20px 50px;
+        }
+        .modal-body img {
+            width: 100px;
+            margin-bottom: 0px;
+        }
+        .modal-header > button > span {
+            font-size: 40px!important;
+        }
+        .search-icon .fa {
+            font-size: 16px;
+        }
+           /* edit page */
+           .new-btn h5 {
+            font-size: 20px;
+        }
+        .new-btn button {
+            padding: 9px 10px;
+            width: 160px;
+            font-size: 16px;
+        }
+        .view-btn .edit {
+            padding: 9px 10px;
+            width: 160px;
+            font-size: 16px;
+        }
+        .view-ads h2 {
+            font-size: 28px;
+            margin: 48px 0px 22px 0px;
+        }
+        .view-btn .delete {
+            font-size: 16px;
+            width: 160px;
+        }
+        .view-ads .right-secion p {
+            margin-bottom: 20px;
+        }
+        .view-ads p {
+            font-size: 18px;
+        }
+        /* manage-ads */
+        .text img {
+            width: 130px;
+            max-width: 100px;
+        }
+        .link-img a img {
+            width: 50px;
+        }
+        .ad-row .main-text {
+            font-size: 16px;
+        }
+        .text-center h2 {
+            font-size: 30px;
+        }
+        /* profile */
+        .view-ads .profile-content .name {
+            font-size: 40px;
+        }
+        .view-ads .profile-content .work {
+            font-size: 28px;
+            margin-top: 0px;
+        }
+        .profile-star .profile-rating > label {
+            font-size: 23px;
+            margin-top: 10px;
+            margin-bottom: 0px;
+        }
+        .view-profile .profile-content h2 {
+            margin: 21px 0px 12px 0px;
+        }
+          /* ========profile in create account page======= */
+          .profile-tabs .create-account-profile .image-content{
+            margin-left: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content .name {
+            font-size: 30px;
+        }
+        .profile-tabs .create-account-profile .profile-content .work {
+            font-size: 22px;
+            margin-top: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-star .profile-rating > label {
+            font-size: 16px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content h2 {
+            margin: 14px 0px 2px 0px;
+            font-size: 21px;
+        }
+        
+        .image-1 {
+            display: flex;
+            padding: 0px 10px 0px 30px;
+            margin-top: -60px;
+            margin-bottom: 30px;
+        }
+        .client-sale-professional {
+            width: 140px;
+            height: 140px;
+        }
+    
+    }
+
+    @media only screen and (max-width: 1679px) {
+        /* manage-row */
+        .manage-ads-row .manage-ads-main-text {
+            padding-left: 30px;
+        }
+        .text {
+            font-size: 19px;
+        }
+
+          /* ========profile in create account page======= */
+        .profile-tabs .view-ads {
+             padding: 50px;
+        }
+        .client-sale-professional {
+            width: 120px;
+            height: 120px;
+        }
+        .client-name {
+            font-size: 17px;
+            font-family: "OpenSans-Bold";
+            color: #fff;
+        }
+        .client-professional-content {
+            padding-top: 6%;
+        }
+
+    }
+
+    @media only screen and (max-width: 1439px) {
+        .start-banner, .approach-us-banner ,.register-form-banner , .product-services-banner, .create-account-banner{
+            height: 92px;
+        }
+        .start-banner h3 ,.approach-us-banner h3,.register-form-banner h3 , .product-services-banner h3, .create-account-banner h3{
+            font-size: 30px;
+        }
+        .main-heading h1 {
+            font-size: 35px;
+        }
+        .services {
+            background: #f5f5f5;
+            padding: 30px 0px 80px 0px;
+        }
+        .service-box {
+            padding: 0px 50px;
+        }
+        .service-rate h3 {
+            padding: 12px 0px;
+            font-size: 16px;
+        }
+        .top-rate {
+            font-size: 50px;
+        }
+        .service-rate {
+            height: 180px;
+        }
+        .empty-div, .service-discription {
+            height: 30px;
+            font-size: 14px;
+        }
+        .service-list ul {
+            font-size: 15px;
+            margin: 6px 0px 9px 0px;
+        }
+        .service-list ul li {
+            line-height: 26px;
+        }
+        .service-options button {
+            font-size: 19px;
+            padding: 8px 0px;
+        }
+        /* approach responsive */
+        .approach-us .main-content h3 , .register-sec .main-content h3{
+            font-size: 30px;
+            margin-bottom: 5px;
+        }
+        .approach-us .main-content p , .register-sec .main-content p{
+            font-size: 18px;
+        }
+        .custom-form textarea {
+            font-size: 16px;
+        }
+        .approach-content p {
+            font-size: 13px;
+        }
+        .approach-content button, .btn-registration {
+            padding: 8px 40px;
+            font-size: 16px;
+        }
+        .approach-form {
+            margin: 0px 0px 40px 0px;
+        }
+        .approach-us {
+            padding: 60px 0px 60px 0px;
+        }
+        .approach-form {
+            padding: 30px 10px;
+        }
+          /* register page media queries */
+          .registration-select {
+            font-size: 14px;
+        }
+        .registration-bottom p {
+            font-size: 14px;
+        }
+        .registration-contact p {
+            font-size: 14px;
+        }
+        .register-checkbox {
+            width: 14px;
+            height: 14px;
+        }
+        .register-sec {
+            padding: 50px 0px 90px 0px;
+        }
+        .registeration-form {
+            margin-top: 20px;
+        }
+        .registeration-form {
+            padding: 20px 20px 50px 20px;
+        }
+          /* freelancing page media queries */
+          .browser-content {
+            font-size: 14px;
+        }
+        .btn-browser {
+            font-size: 16px;
+        }
+        .profile-pic-m {
+            margin: 0px 0px 10px 0px;
+        }
+        .freelanc-content p {
+            margin-top: 20px;
+        }
+         /* product and service page media queries */
+         .product-and-services {
+            padding: 80px 0px 60px 0px;
+        }
+        .product-and-services .ps-row-1 {
+            margin-bottom: 50px!important;
+        }
+        .grey-box {
+            height: 60px;
+        }
+        .services-img {
+            margin-top: -33px;
+            width: 65px;
+        }
+        .product-content h4 {
+            font-size: 17px;
+        }
+        .product-content p {
+            line-height: 17px;
+            font-size: 15px;
+        }
+        .product-content {
+            padding: 20px 30px 10px 30px;
+        }
+        .product-service-box button {
+            font-size: 17px;
+            padding: 10px 0px;
+        }
+        .product-service-box {
+            margin-bottom: 45px;
+        }
+        /* sales professional page media queries */
+        .image .services-img {
+            margin-top: -44px;
+            width: 70px;
+        }
+        .image-content .name {
+            font-size: 14px;
+            margin-top: 0px;
+        }
+        .work {
+            font-size: 15px;
+            margin-top: -4px;
+        }
+        .professional-content {
+            padding: 0px 30px 10px 30px!important;
+        }
+        .rating > label {
+            font-size: 9px;
+            line-height: 11px;
+            padding-top: 8px;
+        }
+        /* create page media queries */
+        .tab button {
+            font-size: 16px;
+            padding: 10px 9px;
+        }
+        .tabcontent h5 {
+            font-size: 17px;
+        }
+        .create-account-form {
+            padding: 35px 40px;
+        }
+        .create-browser {
+            margin: 40px 0px 40px 0px;
+        }
+        .create-section textarea {
+            padding-top: 14px;
+        }
+        .detail-form .create-bottom {
+            font-size: 14px;
+        }
+        .tab {
+            width: 100%;
+        }
+        .btn-explore {
+            padding: 12px 20px;
+            font-size: 16px;
+        }
+        .explore-div a {
+            font-size: 12px;
+        }
+        .modal .modal-dialog {
+            max-width: 650px !important;
+        }
+        .modal-body p {
+            font-size: 20px;
+            margin: 10px 40px 30px 40px;
+        }
+        .modal-header > button > span {
+            font-size: 40px!important;
+        }
+        
+         /* edit page */
+         .new-btn h5 {
+             font-size: 22px;
+         }
+         .new-btn button {
+             padding: 9px 10px;
+             width: 160px;
+             font-size: 16px;
+         }
+         .manage-ads .edit-btn-form {
+            padding: 35px 50px;
+        }
+
+        /* VIEW PAGE */
+        .view-ads h2 {
+            font-size: 22px;
+            margin: 48px 0px 22px 0px;
+        }
+        .view-ads p {
+            font-size: 15px;
+        }
+        /* manage-ads */
+        .text img {
+            width: 100px;
+            max-width: 100px;
+        }
+        .link-img a img {
+            width: 40px;
+        }
+        .ad-row .main-text {
+            font-size: 15px;
+            padding-left: 16px;
+        }
+        .text {
+            font-size: 15px;
+        }
+        .manage-ads-row .manage-ads-main-text {
+            padding-left: 20px;
+        }
+
+          /* profile */
+          .view-ads .profile-content .name {
+            font-size: 37px;
+        }
+        .view-ads .profile-content .work {
+            font-size: 24px;
+        }
+        .profile-star .profile-rating > label {
+            font-size: 20px;
+            margin-top: 5px;
+            margin-bottom: 0px;
+        }
+        .view-profile .profile-content h2 {
+            margin: 17px 0px 0px 0px;
+        }
+           /* ========profile in create account page======= */
+           .profile-tabs .create-account-profile .image-content{
+            margin-left: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content .name {
+            font-size: 26px;
+        }
+        .profile-tabs .create-account-profile .profile-content .work {
+            font-size: 20px;
+            margin-top: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-star .profile-rating > label {
+            font-size: 14px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content h2 {
+            margin: 9px 0px 2px 0px;
+            font-size: 19px;
+        }
+        .profile-tabs .view-ads img {
+            width: 100%;
+        }
+        .profile-tabs .view-ads {
+            padding: 40px;
+        }
+        .profile-tabs .view-ads h2 {
+            font-size: 22px;
+            margin: 28px 0px 13px 0px;
+        }
+        .client-sale-professional {
+            width: 80px;
+            height: 80px;
+        }
+        .image-1 {
+            display: flex;
+            padding: 0px 10px 0px 20px;
+            margin-top: -40px;
+            margin-bottom: 30px;
+        }
+        .client-name {
+            font-size: 14px;
+        }
+        .client-amount {
+            font-size: 16px;
+        }
+
+    }
+
+    @media only screen and (max-width: 1023px) {
+        .manage-subscription-row {
+            background: #fff;
+            padding: 20px 0px 40px 0px;
+        }
+        .start-banner , .approach-us-banner ,.register-form-banner, .product-services-banner, .create-account-banner {
+            height: 72px;
+        }
+        .main-heading {
+            margin-bottom: 20px;
+        }
+        .service-options {
+            margin-bottom: 40px;
+        }
+        .service-col {
+            padding: 0px 65px!important;
+        }
+        .service-rate h3 {
+            font-size: 24px;
+        }
+        .top-rate {
+            font-size: 60px;
+        }
+        .service-rate {
+            height: 210px;
+        }
+        .service-rate p {
+            font-size: 16px;
+        }
+        .empty-div, .service-discription {
+            height: 40px;
+            font-size: 18px;
+        }
+        .service-list ul {
+            font-size: 18px;
+            margin: 6px 0px 9px 0px;
+        }
+        .service-list ul li {
+            line-height: 34px;
+        }
+        .service-options button {
+            font-size: 24px;
+            padding: 10px 0px;
+        }
+        /* approach responsive */
+        .approach-us {
+            padding: 40px 0px 40px 0px;
+        }
+        .approach-us .main-content h3, .register-sec .main-content h3{
+            font-size: 28px;
+        }
+        .approach-us .main-content p, .register-sec .main-content p {
+            font-size: 16px;
+        }
+        .custom-form textarea {
+            font-size: 14px;
+        }
+        /* register page media queries */
+        .registration-bottom p {
+            font-size: 12px;
+        }
+        .registeration-form {
+            padding: 20px 10px 50px 10px;
+        }
+           /* freelancing page media queries */
+           .browser-content {
+            font-size: 14px;
+        }
+        .btn-browser {
+            font-size: 14px;
+        }
+        .profile-pic-m {
+            margin: 0px 0px 10px 0px;
+        }
+        .rating > label {
+            font-size: 11px;
+            line-height: 11px;
+            padding-top: 8px;
+        }
+        /* create page media queries */
+        .tabcontent h5 {
+            font-size: 16px;
+        }
+        .tabcontent {
+            padding: 0px 0px;
+        }
+        .create-account-form {
+            padding: 25px 20px;
+        }
+        .create-browser {
+            margin: 30px 0px 30px 0px;
+        }
+        .btn-save{
+            padding: 10px 40px;
+            font-size: 14px;
+        }
+        .btn-explore{
+            padding: 10px 0px;
+            font-size: 14px;
+        }
+        .explore-div a {
+            font-size: 9px;
+        }
+        .detail-form .create-bottom {
+            margin-bottom: 20px!important;
+        }
+        .modal .modal-dialog {
+            max-width: 550px !important;
+        }
+        .modal-body p {
+            font-size: 20px;
+            margin: 10px 20px 30px 20px;
+        }
+        .modal-header > button > span {
+            font-size: 40px!important;
+        }
+        .modal-body img {
+            width: 90px;
+            margin-bottom: 0px;
+        }
+        .modal-header > button > span {
+            font-size: 35px!important;
+        }
+        .create-account-content {
+            margin-top: 0px;
+        }
+        /* edit page */
+        .new-btn h5 {
+            font-size: 20px;
+        }
+        .manage-ads .edit-btn-form {
+            padding: 35px 30px;
+        }
+        /* VIEW */
+        .view-ads {
+            padding: 40px;
+        }
+         /* manage-ads */
+
+        .link-img a img {
+            width: 37px;
+        }
+          /* profile */
+        .view-profile .profile-content{
+            margin-left: 0px;
+        }
+        .view-ads .profile-content .name {
+            font-size: 30px;
+        }
+        .view-ads .profile-content .work {
+            font-size: 20px;
+        }
+          /* ========profile in create account page======= */
+          .profile-tabs .create-account-profile .image-content{
+            margin-left: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content .name {
+            font-size: 22px;
+        }
+        .profile-tabs .create-account-profile .profile-content .work {
+            font-size: 18px;
+            margin-top: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-star .profile-rating > label {
+            font-size: 12px;
+            margin-top: -7px;
+        }
+        .profile-tabs .create-account-profile .profile-content h2 {
+            margin: 7px 0px 2px 0px;
+            font-size: 17px;
+        }
+        .profile-tabs .view-ads img {
+            width: 100%;
+        }
+        .profile-tabs .view-ads {
+            padding: 20px 10px;
+        }
+        .profile-tabs .view-ads p{
+            font-size: 12px;
+        }   
+        .profile-tabs .view-ads h2 {
+            margin: 9px 0px 2px 0px;
+            font-size: 18px;
+        }
+        .client-sale-professional {
+            width: 90px;
+            height: 90px;
+        }
+        .client-name {
+            font-size: 16px;
+        }
+        .client-professional-content {
+            padding-top: 3%;
+        }
+    }
+
+    @media only screen and (max-width: 767px) {
+        .start-banner ,.approach-us-banner , .register-form-banner, .product-services-banner, .create-account-banner{
+            background-position: top;
+        }
+        .approach-us-banner h3,.register-form-banner h3 , .product-services-banner h3, .create-account-banner h3 {
+            font-size: 24px;
+            margin-left: 5px;
+        }
+        .main-heading h1 {
+            font-size: 30px;
+        }
+        .service-box {
+            padding: 0px 20px;
+        }
+        .service-col {
+            padding: 0px 20px!important;
+        }
+        .service-rate h3 {
+            font-size: 20px;
+        }
+        .service-options button {
+            font-size: 22px;
+            padding: 9px 0px;
+        }
+        .top-rate {
+            font-size: 50px;
+        }
+        .service-rate p {
+            font-size: 15px;
+        }
+        .service-rate {
+            height: 190px;
+        }
+        .empty-div, .service-discription {
+            height: 35px;
+            font-size: 15px;
+        }
+        .service-list ul {
+            font-size: 16px;
+        }
+        .service-list ul li {
+            line-height: 30px;
+        }
+        .services {
+            padding: 30px 0px 30px 0px;
+        }
+         /* approach responsive */
+         .approach-us .main-content h3, .register-sec .main-content h3 {
+            font-size: 22px;
+        }
+        .approach-us .main-content p , .register-sec .main-content p{
+            font-size: 14px;
+            padding: 0px 40px;
+        }
+        .approach-content {
+            padding: 2px 30px 1px 30px;
+            display: grid;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .approach-content button, .btn-registration {
+            padding: 8px 40px;
+            font-size: 16px;
+            margin-left: 0px!important;
+        }
+        /* register page media queries */
+        .half-form {
+            display: block;
+        }
+        .registeration-form-1, .registeration-form-2 {
+            width: 100%;
+            margin-left: 0px!important;
+        }
+        .registration-contact {
+            display: block;
+            text-align: center;
+        }
+        .registration-contact .btn-registration {
+            width: 100%;
+            margin-left: 0px!important;
+
+        }
+        /* freelancing page media queries */
+        .browser-content {
+            font-size: 14px;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .btn-center{
+            text-align: center;
+            display: flex;
+            justify-content: center;
+        }
+        /* product and services page media queries */
+        .ps-col{
+            margin-bottom: 20px;
+        }
+        .product-and-services .ps-row-1 {
+            margin-bottom: 12px!important;
+        }
+        .grey-box {
+            height: 80px;
+        }
+        .services-img {
+            margin-top: -42px;
+            width: 85px;
+        }
+        .product-content h4 {
+            font-size: 20px;
+        }
+        .product-service-box button {
+            font-size: 20px;
+            padding: 12px 0px;
+        }
+        .product-service-box {
+            margin-bottom: 25px;
+        }
+        .product-and-services {
+            padding: 30px 0px 60px 0px;
+        }
+        /* create page media queries */
+        .tab {
+            width: 80%;
+            margin-bottom: 35px;
+        }
+        .tab-responsive{
+            display: flex;
+            justify-content: center;
+        }
+        .tab button {
+            padding: 14px 19px;
+        }
+        .create-pic{
+            padding-left: 15px!important;
+        }
+        .btn-save {
+            width: 100%;
+        }
+        .or {
+            font-size: 25px;
+            text-align: center;
+            margin: 10px 0px;
+        }
+        .btn-browser , .btn-save, .btn-explore{
+            font-size: 18px;
+        }
+        .explore-div a{
+            font-size: 14px;
+        }
+        .create-account {
+            padding: 50px 0px 50px 0px;
+        }
+        .modal-body p {
+            font-size: 18px;
+            margin: 0px 0px 30px 0px;
+        }
+
+        /* coming-soon */
+        .coming-btn {
+            position: inherit;
+            top: 15px;
+            right: 0;
+            display: initial!important;
+        }
+        .comming-soon-row p {
+            font-size: 15px;
+        }
+        .newsletter_form_holder h4 {
+            font-size: 20px;
+        }
+          /* edit page */
+          .new-btn {
+            display: block;
+            margin-bottom: 0px;
+            text-align: center;
+        }
+        .new-btn h5 {
+            font-size: 20px;
+            margin-bottom: 33px;
+        }
+        .browser-content {
+            font-size: 14px;
+            text-align: center;
+            display: block;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        /* view */
+        .view-ads {
+            padding: 40px 20px;
+        }
+        .view-ads img {
+            width: 100%;
+        }
+        .manage-ads {
+            background: #f5f5f5;
+            padding: 30px 0px 30px 0px;
+        }
+
+        /* manage-ads */
+        .ad-row .main-text {
+            display: block;
+            justify-content: space-between;
+            align-items: center;
+            font-family: "OpenSans-Regular";
+            font-size: 18px;
+            padding-left: 0px;
+            text-align: center;
+        }
+        .ad-row .main-text {
+            margin-bottom: 40px;
+        }
+        .text{
+            margin: 20px 0px;
+        }
+        .text img {
+            width: 180px;
+            max-width: 100px;
+        }
+        .link-img a img {
+            width: 52px;
+        }
+        .ad-row {
+            background: #fff;
+            box-shadow: 0px 0px 20px 0px #afafaf;
+            margin: 30px 0px;
+            padding: 10px 0px 40px 0px;
+        }
+        .manage-ads-main-text {
+            display: block;
+            justify-content: space-between;
+            align-items: center;
+            text-align: center;
+        }
+        .manage-ads-row {
+            margin: 30px 0px;
+            padding: 20px 0px 40px 0px;
+        }
+
+          /* profile */
+          .view-ads .profile-content .name {
+            margin-top: 70px;
+        }
+        .manage-ads .view-profile{
+            margin: 0px 0px;
+        }
+           /* ========profile in create account page======= */
+          .profile-tabs .create-account-profile .image-content{
+            margin-left: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-content .name {
+            font-size: 35px;
+            margin-top: 20px;
+        }
+        .profile-tabs .create-account-profile .profile-content .work {
+            font-size: 26px;
+            margin-top: 0px;
+        }
+        .profile-tabs .create-account-profile .profile-star .profile-rating > label {
+            font-size: 20px;
+            margin-top: 0px;
+            margin-bottom: 10px;
+        }
+        .profile-tabs .create-account-profile .profile-content h2 {
+            margin: 15px 0px 2px 0px;
+            font-size: 25px;
+        }
+        .profile-tabs .view-ads img {
+            width: 100%;
+        }
+        .profile-tabs .view-ads {
+            padding: 30px 10px;
+        }
+        .profile-tabs .view-ads p{
+            font-size: 16px;
+        }   
+        .profile-tabs .view-ads h2 {
+            margin: 50px 0px 2px 0px;
+            font-size: 26px;
+        }
+
+
+    }
+
+
+    @media only screen and (max-width: 424px) {
+        .start-banner h3{
+            font-size: 26px;
+        }
+        .start-banner , .approach-us-banner, .register-form-banner , .product-services-banner, .create-account-banner{
+            height: 56px;
+        }
+        .main-heading h1 {
+            font-size: 24px;
+        }
+        .service-rate h3 {
+            font-size: 16px;
+        }
+        .service-rate p {
+            font-size: 13px;
+        }
+        .service-rate {
+            height: 175px;
+        }
+        .empty-div, .service-discription {
+            height: 30px;
+            font-size: 15px;
+        }
+        .service-list ul {
+            font-size: 14px;
+        }
+        .service-list ul li {
+            line-height: 24px;
+        }
+        .service-options button {
+            font-size: 20px;
+            padding: 9px 0px;
+        }
+        .approach-us-banner h3 ,.register-form-banner h3 , .product-services-banner h3, .create-account-banner h3{
+            font-size: 26px;
+            text-align: center;
+        }
+        .approach-us-banner ,.register-form-banner, .product-services-banner, .create-account-banner{
+            height: 100px;
+            background-position: right;
+        }
+        .approach-us .main-content h3 , .register-sec .main-content h3{
+            padding: 0px 10px;
+        }
+        /* register page media queries */
+        .register-sec {
+            padding: 50px 0px 50px 0px;
+        }
+        .register-sec .main-content p {
+            font-size: 14px;
+            padding: 0px 40px;
+            margin-bottom: 0px;
+        }
+        /* product and services page media queries */
+        .grey-box {
+            height: 70px;
+        }
+        .services-img {
+            margin-top: -39px;
+            width: 75px;
+        }
+        .product-content {
+            padding: 20px 20px 10px 20px;
+        }
+        .product-content p {
+            line-height: 17px;
+            font-size: 14px;
+        }
+
+         /* edit page */
+         .new-btn h5 {
+            font-size: 18px;
+        }
+        .manage-ads {
+            padding: 40px 0px 50px 0px;
+        }
+
+
+        .text {
+            margin: 14px 0px;
+        }
+        .link-img a img {
+            width: 46px;
+        }
+        .ad-row .main-text {
+            font-size: 15px;
+            padding-right: 0px!important;
+            font-size: 15px;
+        }
+        .text img {
+            width: 150px;
+            max-width: 100px;
+        }
+            /* ========profile in create account page======= */
+            .profile-tabs .create-account-profile .image-content{
+                margin-left: 0px;
+            }
+            .profile-tabs .create-account-profile .profile-content .name {
+                font-size: 30px;
+                margin-top: 20px;
+            }
+            .profile-tabs .create-account-profile .profile-content .work {
+                font-size: 23px;
+                margin-top: 0px;
+            }
+            .profile-tabs .create-account-profile .profile-star .profile-rating > label {
+                font-size: 20px;
+                margin-top: 0px;
+                margin-bottom: 10px;
+            }
+            .profile-tabs .create-account-profile .profile-content h2 {
+                margin: 15px 0px 2px 0px;
+                font-size: 23px;
+            }
+            .profile-tabs .view-ads img {
+                width: 100%;
+            }
+            .profile-tabs .view-ads {
+                padding: 30px 10px;
+            }
+            .profile-tabs .view-ads p{
+                font-size: 16px;
+            }   
+            .profile-tabs .view-ads h2 {
+                margin: 50px 0px 2px 0px;
+                font-size: 26px;
+            }
+
+
+    }
+
+    @media only screen and (max-width: 374px) {
+        .start-banner h3 {
+            font-size: 22px;
+        }
+        .start-banner {
+            height: 50px;
+        }
+        .approach-us-banner h3 ,.register-form-banner h3 , .product-services-banner h3, .create-account-banner h3{
+            font-size: 18px;
+            text-align: center;
+        }
+        .approach-us-banner ,.register-form-banner, .product-services-banner, .create-account-banner{
+            height: 70px;
+            background-position: right;
+        }
+        .main-heading h1 {
+            font-size: 20px;
+        }
+        .service-rate h3 {
+            font-size: 12px;
+        }
+        .service-rate p {
+            font-size: 11px;
+        }
+        .service-col {
+            padding: 0px 10px!important;
+        }
+        .service-rate {
+            height: 170px;
+        }
+        .empty-div, .service-discription {
+            height: 24px;
+            font-size: 12px;
+        }
+        .service-list ul {
+            font-size: 12px;
+        }
+        .service-list ul li {
+            line-height: 20px;
+        }
+        .service-options button {
+            font-size: 14px;
+            padding: 7px 0px;
+        }
+        /* approach responsive */
+        .approach-us {
+            padding: 30px 0px 0px 0px;
+        }
+        /* registration page responsive */
+        .registration-contact p {
+            font-size: 12px;
+        }
+        .freelancer{
+            margin:0px 0px 50px 0px;
+        }
+           /* product and services page media queries */
+           .grey-box {
+            height: 60px;
+        }
+        .services-img {
+            margin-top: -39px;
+            width: 65px;
+        }
+        .product-content {
+            padding: 20px 20px 10px 20px;
+        }
+        .product-content p {
+            line-height: 15px;
+            font-size: 13px;
+        }
+        .product-content h4 {
+            font-size: 16px;
+        }
+        .product-service-box button {
+            font-size: 16px;
+            padding: 10px 0px;
+        }
+        .product-service-box {
+            margin-bottom: 15px;
+        }
+        .modal-body p {
+            font-size: 15px;
+            margin: 0px 0px 15px 0px;
+        }
+        .modal-body img {
+            margin-bottom: 0px;
+        }
+        .modal-body {
+            padding: 00px 30px 20px 30px!important;
+        }
+
+         /* edit page */
+        .new-btn h5 {
+            font-size: 15px;
+        }
+        /* view */
+        .view-btn {
+            margin-top: 30px;
+        }
+        .ad-row .main-text {
+    padding-right: 0px!important;
+    padding: 0px 2px;
+        }
+
+    }
